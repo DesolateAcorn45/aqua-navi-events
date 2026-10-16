@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-10-16T11:28:00+09:00",
+  "sourceUrl": "https://nagoyaaqua.jp/wp/wp-content/uploads/2026/09/%E6%97%A52026.10.01-11.29%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%EF%BC%8820260907%E3%83%99%E3%83%AB%E3%83%BC%E3%82%AC%E5%85%AC%E9%96%8B%EF%BC%B4%EF%BC%B2%E5%86%8D%E9%96%8B.pdf",
+  "sourcePdfSha256": "d5ca2ad14574350cbdea1ed0954db1e168507e440879854e399d7cfc8656088c",
+  "sourcePage": 1,
+  "sourceHeading": "2026.10.01-11.01",
+  "publicationNoticeUrl": "https://nagoyaaqua.jp/news/news/7243/",
+  "operationInfoUrl": "https://nagoyaaqua.jp/faq/",
+  "reviewedDates": [
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
+  ],
+  "reviewMethod": "PDFをレンダリングし表の列・曜日・場所・時間を目視照合。一般の休館日案内（月曜）と対象3日を照合。日別カレンダーは取得HTMLに古い見本があるため使わず、期間別公式PDFを採用。",
+  "discrepancies": [
+    "PDFファイル名は11.29だが本文見出しと公式リンク表示は11.01。本文を採用。",
+    "一般イベント案内のウミガメ所要時間15分に対し当該期間表は10分。日付付き配信は期間表の10分。"
+  ],
+  "limitations": [
+    "臨時の開催変更・休館は反映されない可能性がある。最終案内は公式サイトと館内掲示。",
+    "APIや自動収集への許諾は未確認。公式資料・写真を再配布しない。",
+    "対象3日以外へ自動延長しない。"
+  ],
+  "itemCount": 52
+}
